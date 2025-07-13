@@ -26,7 +26,6 @@
 
 ### 🌌 Social Links  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-purple?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melaniezaidel7/)
-[![Spotify](https://img.shields.io/badge/Spotify-purple?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/rpkybca9mmr0rxzmhk0b27g2v?si=9bc1634e02a0406d)
 
 ---
 
